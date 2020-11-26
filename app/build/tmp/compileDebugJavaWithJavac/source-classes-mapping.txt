@@ -1,0 +1,2 @@
+com/example/cpsc411homework2/BuildConfig.java
+ com.example.cpsc411homework2.BuildConfig

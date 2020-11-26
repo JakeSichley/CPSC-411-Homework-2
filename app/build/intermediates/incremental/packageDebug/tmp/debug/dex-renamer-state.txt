@@ -1,0 +1,4 @@
+#Wed Nov 25 20:49:00 PST 2020
+base.0=D\:\\Users\\Jake\\AndroidStudioProjects\\CPSC-411-Homework-2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
